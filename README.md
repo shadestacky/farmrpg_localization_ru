@@ -1,6 +1,7 @@
 **FarmRPG Localization Project**
 
-This is a TamperMonkey script which aims to localize FarmRPG (the web version) to Russian language. (Currently very WIP and does not function!!)
+This is a TamperMonkey script which aims to localize FarmRPG (the web version) to Russian language. 
+***(Currently very WIP and does not function!!)***
 
 I thought about doing this for so long and finally decided to try doing it. 
 I may not know what exactly am I doing, but hopefully it turns out to be something decent :P
