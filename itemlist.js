@@ -2,12 +2,14 @@
 // @name         getting items
 // @namespace    http://tampermonkey.net/
 // @version      0.1.0
-// @description  try to take over the world!
+// @description  try to get every item info right!
 // @author       You
 // @match        https://farmrpg.com/index.php
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
+
+// whoever thought of adding the everything page is a genius i love you
 
 (function() {
     async function fetchPageData(url) {
@@ -39,9 +41,12 @@
         if (name === "") {
           return { name: "", description: "", aboutthisitem: "" };
         };
-        const description = doc.querySelector('#img') !== null ? doc.querySelector('#img').innerText.trim()
-            : Array.from(Array.from(doc.querySelector(".content-block").childNodes)[5].childNodes).filter(node => node.nodeType == node.TEXT_NODE) ?
-              Array.from(Array.from(doc.querySelector(".content-block").childNodes)[5].childNodes).filter(node => node.nodeType == node.TEXT_NODE).map(t => t.textContent) : "";
+        const description = doc.querySelector("#img") 
+            ? Array.from(doc.querySelector("#img").childNodes).filter(node => node.nodeType == node.TEXT_NODE && node.textContent.trim() !== "").map(t => t.textContent.trim())
+            : 
+            Array.from(Array.from(doc.querySelector(".content-block").childNodes)[5].childNodes).filter(node => node.nodeType == node.TEXT_NODE && node.textContent.trim() !== "") 
+            ? Array.from(Array.from(doc.querySelector(".content-block").childNodes)[5].childNodes).filter(node => node.nodeType == node.TEXT_NODE && node.textContent.trim() !== "").map(t => t.textContent.trim()) 
+            : "";
         //"about this item" may not exist, so theres a need for a check
         const aboutthisitem = doc.querySelector('.content-block-title i.fa-book') ? doc.querySelector('.content-block-title i.fa-book').parentElement.nextElementSibling.querySelector('.card-content .card-content-inner').innerText.trim() : "";
         console.log({ name, description, aboutthisitem });
