@@ -71,8 +71,10 @@
     "aboutthisitem": ""
   },
   "21": {
-    "name": "",
-    "description": "",
+    "name": "Board",
+    "description": [
+      "The foundation of any good farm"
+    ],
     "aboutthisitem": ""
   },
   "22": {
@@ -167,8 +169,10 @@
     "aboutthisitem": ""
   },
   "35": {
-    "name": "",
-    "description": "",
+    "name": "Wood",
+    "description": [
+      "It's better than bad, it's good"
+    ],
     "aboutthisitem": ""
   },
   "36": {
@@ -369,8 +373,10 @@
     "aboutthisitem": ""
   },
   "64": {
-    "name": "",
-    "description": "",
+    "name": "Corn Seeds",
+    "description": [
+      "Harvest every 4 hours"
+    ],
     "aboutthisitem": ""
   },
   "65": {
@@ -529,8 +535,10 @@
     "aboutthisitem": ""
   },
   "87": {
-    "name": "",
-    "description": "",
+    "name": "Bone Fish",
+    "description": [
+      "Someone else had this for dinner already"
+    ],
     "aboutthisitem": ""
   },
   "88": {
@@ -569,8 +577,10 @@
     "aboutthisitem": ""
   },
   "93": {
-    "name": "",
-    "description": "",
+    "name": "Unpolished Ruby",
+    "description": [
+      "Red and ready to shine"
+    ],
     "aboutthisitem": ""
   },
   "94": {
@@ -595,8 +605,10 @@
     "aboutthisitem": ""
   },
   "97": {
-    "name": "",
-    "description": "",
+    "name": "Clam Shell",
+    "description": [
+      "Wait, is that a VHS tape in there?"
+    ],
     "aboutthisitem": ""
   },
   "98": {
@@ -607,8 +619,10 @@
     "aboutthisitem": ""
   },
   "99": {
-    "name": "",
-    "description": "",
+    "name": "Clownfish",
+    "description": [
+      "More entertaining than the mimefish"
+    ],
     "aboutthisitem": ""
   },
   "100": {
@@ -880,8 +894,10 @@
     "aboutthisitem": ""
   },
   "138": {
-    "name": "",
-    "description": "",
+    "name": "Green Jellyfish",
+    "description": [
+      "It's so jelly-ous it turned green with envy"
+    ],
     "aboutthisitem": ""
   },
   "139": {
@@ -1646,8 +1662,11 @@
     "aboutthisitem": ""
   },
   "244": {
-    "name": "",
-    "description": "",
+    "name": "Amber",
+    "description": [
+      "Ancient tree sap, sometimes with",
+      "particularly unlucky insects"
+    ],
     "aboutthisitem": ""
   },
   "245": {
@@ -2580,9 +2599,11 @@
     "aboutthisitem": ""
   },
   "377": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Cornucopia 01",
+    "description": [
+      "The horn of plenty"
+    ],
+    "aboutthisitem": "This item is contained in the 2022 November Starter Pack and November 28-day monthly chore reward.  Open at the Locksmith."
   },
   "378": {
     "name": "Water Lily",
@@ -2638,8 +2659,10 @@
     "aboutthisitem": ""
   },
   "385": {
-    "name": "",
-    "description": "",
+    "name": "Paper Receipt",
+    "description": [
+      "Proof of purchase"
+    ],
     "aboutthisitem": ""
   },
   "386": {
@@ -2672,8 +2695,10 @@
     "aboutthisitem": ""
   },
   "390": {
-    "name": "",
-    "description": "",
+    "name": "Seaweed",
+    "description": [
+      "A great wrapper for some of your fish"
+    ],
     "aboutthisitem": ""
   },
   "391": {
@@ -2684,8 +2709,10 @@
     "aboutthisitem": ""
   },
   "392": {
-    "name": "",
-    "description": "",
+    "name": "Steel Wire",
+    "description": [
+      "Useful for many things"
+    ],
     "aboutthisitem": ""
   },
   "393": {
@@ -2805,8 +2832,10 @@
     "aboutthisitem": ""
   },
   "409": {
-    "name": "",
-    "description": "",
+    "name": "Pine Tree",
+    "description": [
+      "Always green"
+    ],
     "aboutthisitem": ""
   },
   "410": {
@@ -2838,8 +2867,10 @@
     "aboutthisitem": ""
   },
   "414": {
-    "name": "",
-    "description": "",
+    "name": "Green Scarf",
+    "description": [
+      "Cozy and warm"
+    ],
     "aboutthisitem": ""
   },
   "415": {
@@ -2997,8 +3028,10 @@
     "aboutthisitem": ""
   },
   "437": {
-    "name": "",
-    "description": "",
+    "name": "Christmas Present 10",
+    "description": [
+      "Ten lords a-leaping"
+    ],
     "aboutthisitem": ""
   },
   "438": {
@@ -3123,8 +3156,10 @@
     "aboutthisitem": ""
   },
   "455": {
-    "name": "",
-    "description": "",
+    "name": "Wooden Bow",
+    "description": [
+      "Semi-accurate, not very solid"
+    ],
     "aboutthisitem": ""
   },
   "456": {
@@ -3184,9 +3219,11 @@
     "aboutthisitem": "This fish cannot be caught with Fishing Nets."
   },
   "464": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Goldray",
+    "description": [
+      "Can sting you with gold"
+    ],
+    "aboutthisitem": "This fish cannot be caught with Fishing Nets."
   },
   "465": {
     "name": "Gold Sea Bass",
@@ -3224,8 +3261,10 @@
     "aboutthisitem": "Acquiring the Tower Key will be no easy feat.  Are you prepared?"
   },
   "470": {
-    "name": "",
-    "description": "",
+    "name": "Opposition Hourglass",
+    "description": [
+      "Frozen in Time"
+    ],
     "aboutthisitem": ""
   },
   "471": {
@@ -3328,8 +3367,10 @@
     "aboutthisitem": ""
   },
   "486": {
-    "name": "",
-    "description": "",
+    "name": "Heart Necklace",
+    "description": [
+      "For someone special"
+    ],
     "aboutthisitem": ""
   },
   "487": {
@@ -3485,13 +3526,18 @@
     "aboutthisitem": ""
   },
   "508": {
-    "name": "",
-    "description": "",
+    "name": "Arnold Palmer",
+    "description": [
+      "Quicker than regular Lemonade"
+    ],
     "aboutthisitem": ""
   },
   "509": {
-    "name": "",
-    "description": "",
+    "name": "50 Gold",
+    "description": [
+      "Open at Locksmith for 50 Gold",
+      "Givable to other players"
+    ],
     "aboutthisitem": ""
   },
   "510": {
@@ -3958,8 +4004,12 @@
     "aboutthisitem": ""
   },
   "584": {
-    "name": "",
-    "description": "",
+    "name": "Tackle Box",
+    "description": [
+      "Full of helpful items",
+      "Includes bait, fishing nets,",
+      "large nets and Ice Teas"
+    ],
     "aboutthisitem": ""
   },
   "585": {
@@ -4009,8 +4059,10 @@
     "aboutthisitem": ""
   },
   "591": {
-    "name": "",
-    "description": "",
+    "name": "Copper Wire",
+    "description": [
+      "Prized for its conductivity"
+    ],
     "aboutthisitem": ""
   },
   "592": {
@@ -4085,13 +4137,17 @@
     "aboutthisitem": ""
   },
   "602": {
-    "name": "",
-    "description": "",
+    "name": "Corn Prize Bag",
+    "description": [
+      "Hopefully not full of corn"
+    ],
     "aboutthisitem": ""
   },
   "603": {
-    "name": "",
-    "description": "",
+    "name": "Summer Basket",
+    "description": [
+      "Stay cool with these items"
+    ],
     "aboutthisitem": ""
   },
   "604": {
@@ -4276,8 +4332,10 @@
     "aboutthisitem": "This mirror will show you the future, but it is unknown if the future shown is the true future."
   },
   "628": {
-    "name": "",
-    "description": "",
+    "name": "Machine Press",
+    "description": [
+      "So much pressure"
+    ],
     "aboutthisitem": ""
   },
   "629": {
@@ -4475,8 +4533,12 @@
     "aboutthisitem": ""
   },
   "657": {
-    "name": "",
-    "description": "",
+    "name": "Spooky Cookies",
+    "description": [
+      "Harvesting while effect is active",
+      "yields 3x more than normal",
+      "Effect lasts 5 minutes"
+    ],
     "aboutthisitem": ""
   },
   "658": {
@@ -4664,8 +4726,10 @@
     "aboutthisitem": ""
   },
   "685": {
-    "name": "",
-    "description": "",
+    "name": "Engine",
+    "description": [
+      "Used to power a machine"
+    ],
     "aboutthisitem": ""
   },
   "686": {
@@ -5232,8 +5296,11 @@
     "aboutthisitem": ""
   },
   "767": {
-    "name": "",
-    "description": "",
+    "name": "VIP Card",
+    "description": [
+      "<3 Borgen",
+      "Gives access to Borgen Mercantile"
+    ],
     "aboutthisitem": ""
   },
   "768": {
@@ -5295,8 +5362,10 @@
     "aboutthisitem": ""
   },
   "776": {
-    "name": "",
-    "description": "",
+    "name": "Ship in a Bottle",
+    "description": [
+      "Admired by seafarers and landlubbers alike"
+    ],
     "aboutthisitem": ""
   },
   "777": {
@@ -5728,8 +5797,11 @@
     "aboutthisitem": ""
   },
   "839": {
-    "name": "",
-    "description": "",
+    "name": "Notary Stamp",
+    "description": [
+      "Only given to an official Notary of",
+      "Redbrook.  Previously owned by Genevieve."
+    ],
     "aboutthisitem": ""
   },
   "840": {
@@ -5785,9 +5857,11 @@
     "aboutthisitem": ""
   },
   "848": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Belt of Commander Uteer",
+    "description": [
+      "Borgen Belt #271"
+    ],
+    "aboutthisitem": "Commander Nolv Uteer never lost a battle while wearing this belt from his full dress uniform.  Part of Borgen's Belt Collection."
   },
   "849": {
     "name": "Bessi Gan Belt",
@@ -6014,9 +6088,12 @@
     "aboutthisitem": ""
   },
   "883": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Cranberry Juice",
+    "description": [
+      "Extremely refreshing",
+      "Adds a lot of stamina"
+    ],
+    "aboutthisitem": "This item can be used at the bottom of ‘Explore the Area’. It adds a large amount of stamina based on the size of your orchard."
   },
   "884": {
     "name": "Void Bag 01",
@@ -6427,14 +6504,18 @@
     "aboutthisitem": ""
   },
   "942": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Frozen Squid",
+    "description": [
+      "Eight frosty arms, zero chill"
+    ],
+    "aboutthisitem": "This fish can only be caught with Frozen Fishing Nets or in a Frozen Fishing Zone."
   },
   "943": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Frozen Sheepshead",
+    "description": [
+      "One baaaaaad fish"
+    ],
+    "aboutthisitem": "This fish can only be caught with Frozen Fishing Nets or in a Frozen Fishing Zone."
   },
   "944": {
     "name": "Frozen Spyfish",
@@ -6556,9 +6637,11 @@
     "aboutthisitem": "This fish can only be caught with Frozen Fishing Nets or in a Frozen Fishing Zone."
   },
   "961": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Frozen Book",
+    "description": [
+      "Written in an ancient language"
+    ],
+    "aboutthisitem": "This fish can only be caught with Frozen Fishing Nets or in a Frozen Fishing Zone."
   },
   "962": {
     "name": "Refined Corn Quartz",
@@ -6912,8 +6995,10 @@
     "aboutthisitem": ""
   },
   "1014": {
-    "name": "",
-    "description": "",
+    "name": "Cursed Effigy Head",
+    "description": [
+      "What even is this?"
+    ],
     "aboutthisitem": ""
   },
   "1015": {
@@ -6980,8 +7065,10 @@
     "aboutthisitem": ""
   },
   "1025": {
-    "name": "",
-    "description": "",
+    "name": "Egg of Life",
+    "description": [
+      "A strange, magical Egg"
+    ],
     "aboutthisitem": ""
   },
   "1026": {
@@ -6992,8 +7079,10 @@
     "aboutthisitem": ""
   },
   "1027": {
-    "name": "",
-    "description": "",
+    "name": "Egg of Shadow",
+    "description": [
+      "A strange, magical Egg"
+    ],
     "aboutthisitem": ""
   },
   "1028": {
@@ -7104,8 +7193,10 @@
     "aboutthisitem": ""
   },
   "1043": {
-    "name": "",
-    "description": "",
+    "name": "Bug Bag 01",
+    "description": [
+      "Random selection of specific bugs"
+    ],
     "aboutthisitem": ""
   },
   "1044": {
@@ -7205,8 +7296,10 @@
     "aboutthisitem": ""
   },
   "1057": {
-    "name": "",
-    "description": "",
+    "name": "Carved Fox",
+    "description": [
+      "What does the fox say?"
+    ],
     "aboutthisitem": ""
   },
   "1058": {
@@ -7689,14 +7782,19 @@
     "aboutthisitem": ""
   },
   "1123": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Pumpkin Juice",
+    "description": [
+      "Hauntingly good",
+      "Increases Mastery"
+    ],
+    "aboutthisitem": "This item can be consumed on the item details screen for any item that has mastery and isn't already Mega-Mastered.  When consumed, it will increase the mastery count by 10% making it easier to reach Mega-Mastery for the item."
   },
   "1124": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Treat Bag 06",
+    "description": [
+      "Full of useful treats"
+    ],
+    "aboutthisitem": "This item is contained in the 2024 and 2025 October Starter Pack and October 28-day monthly chore reward.  Open at the Locksmith."
   },
   "1125": {
     "name": "Gummy Globber",
@@ -7848,8 +7946,10 @@
     "aboutthisitem": ""
   },
   "1146": {
-    "name": "",
-    "description": "",
+    "name": "Ghost Buddy Doll",
+    "description": [
+      "Boo-dy"
+    ],
     "aboutthisitem": ""
   },
   "1147": {
@@ -7926,9 +8026,13 @@
     "aboutthisitem": ""
   },
   "1157": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Festive Eggnog",
+    "description": [
+      "The nogs are finally in season.",
+      "Mariya's delicious take on a",
+      "classic beverage."
+    ],
+    "aboutthisitem": "When consumed, your next chat message will be in Holiday colors!"
   },
   "1158": {
     "name": "Nut Cracker Buddy",
@@ -8914,8 +9018,10 @@
     "aboutthisitem": ""
   },
   "1297": {
-    "name": "",
-    "description": "",
+    "name": "Buddy Doll Bag 01",
+    "description": [
+      "Contains a random Buddy Doll from 2024"
+    ],
     "aboutthisitem": ""
   },
   "1298": {
@@ -9291,8 +9397,10 @@
     "aboutthisitem": ""
   },
   "1351": {
-    "name": "",
-    "description": "",
+    "name": "Duck Egg",
+    "description": [
+      "Look out!"
+    ],
     "aboutthisitem": ""
   },
   "1352": {
@@ -9414,8 +9522,11 @@
     "aboutthisitem": ""
   },
   "1368": {
-    "name": "",
-    "description": "",
+    "name": "Glass Eye Urchin",
+    "description": [
+      "The eye in the center is false",
+      "but you can't help but look away"
+    ],
     "aboutthisitem": ""
   },
   "1369": {
@@ -9455,8 +9566,10 @@
     "aboutthisitem": ""
   },
   "1374": {
-    "name": "",
-    "description": "",
+    "name": "Toxic Tendrils",
+    "description": [
+      "A carnivorous swamp plant"
+    ],
     "aboutthisitem": ""
   },
   "1375": {
@@ -9532,8 +9645,10 @@
     "aboutthisitem": ""
   },
   "1385": {
-    "name": "",
-    "description": "",
+    "name": "Blubberfish",
+    "description": [
+      "It just blubbers on and on and on"
+    ],
     "aboutthisitem": ""
   },
   "1386": {
@@ -9636,8 +9751,10 @@
     "aboutthisitem": ""
   },
   "1400": {
-    "name": "",
-    "description": "",
+    "name": "Black Bag",
+    "description": [
+      "Looks like a black hole but does not act like it"
+    ],
     "aboutthisitem": ""
   },
   "1401": {
@@ -9922,8 +10039,10 @@
     "aboutthisitem": ""
   },
   "1441": {
-    "name": "",
-    "description": "",
+    "name": "Gazebo",
+    "description": [
+      "Can I shoot an arrow at the gazebo?"
+    ],
     "aboutthisitem": ""
   },
   "1442": {
@@ -9970,9 +10089,14 @@
     "aboutthisitem": ""
   },
   "1448": {
-    "name": "",
-    "description": "",
-    "aboutthisitem": ""
+    "name": "Picnic Basket 01",
+    "description": [
+      "Full of helpful items",
+      "Includes Meals, Orange Juices",
+      "Large Nets, Arnold Palmers",
+      "Grape Juice and a Mini Time Egg"
+    ],
+    "aboutthisitem": "Support the game with the Refresher Pack in the Gold Shop and get this item to help you on your journey!"
   },
   "1449": {
     "name": "Piece 12",
@@ -9999,6 +10123,97 @@
     "name": "Sugar Cube",
     "description": [
       "A certain equus caballus loves these"
+    ],
+    "aboutthisitem": ""
+  },
+  "1453": {
+    "name": "Slime Buddy Doll",
+    "description": [
+      "Double Dare contestant"
+    ],
+    "aboutthisitem": ""
+  },
+  "1454": {
+    "name": "Slime Bucket",
+    "description": [
+      "Are we sure this is safe?"
+    ],
+    "aboutthisitem": ""
+  },
+  "1455": {
+    "name": "Egg of Tree",
+    "description": [
+      "Just a hatchling"
+    ],
+    "aboutthisitem": "Adds a random tree to your Orchard. Use in your Orchard to plant instantly. Consumed on use."
+  },
+  "1456": {
+    "name": "Spring Basket 03",
+    "description": [
+      "Spring is in the air"
+    ],
+    "aboutthisitem": "This item is contained in the 2026 March Starter Pack and October 28-day monthly chore reward.  Open at the Locksmith."
+  },
+  "1457": {
+    "name": "Shamrock Milk",
+    "description": [
+      "Luck +10"
+    ],
+    "aboutthisitem": ""
+  },
+  "1458": {
+    "name": "Leprechaun Hat",
+    "description": [
+      "Boosts confidence and nullifies cold"
+    ],
+    "aboutthisitem": ""
+  },
+  "1459": {
+    "name": "Toga Buddy Doll",
+    "description": [
+      "Et tu, Agricola?"
+    ],
+    "aboutthisitem": ""
+  },
+  "1460": {
+    "name": "Chapiku",
+    "description": [
+      "Catch all, you must"
+    ],
+    "aboutthisitem": ""
+  },
+  "1461": {
+    "name": "Lucky Corn",
+    "description": [
+      "Leprecorn"
+    ],
+    "aboutthisitem": "Chance to be grown from the regular version of this crop during March"
+  },
+  "1462": {
+    "name": "Lucky Potato",
+    "description": [
+      "Probably poisonous"
+    ],
+    "aboutthisitem": "Chance to be grown from the regular version of this crop during March"
+  },
+  "1463": {
+    "name": "Lucky Eggs",
+    "description": [
+      "Where's the ham?"
+    ],
+    "aboutthisitem": ""
+  },
+  "1464": {
+    "name": "Lucky Bacon",
+    "description": [
+      "Mmmmm green bacon"
+    ],
+    "aboutthisitem": ""
+  },
+  "1465": {
+    "name": "Lucky Trout",
+    "description": [
+      "Sprouting luck"
     ],
     "aboutthisitem": ""
   }
